@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Ceci est un commentaire 
-
+//Ceci est un deuxième commentaire
 @SpringBootApplication
 public class ResalocaApplication {
 
